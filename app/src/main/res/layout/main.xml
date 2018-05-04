@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/MainlinearLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical">
+
+         <com.google.android.gms.ads.AdView
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/adView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    ads:adUnitId="ca-app-pub-4280826531916194/8557101904"
+    ads:adSize="SMART_BANNER"/>
+         
+		<TableLayout
+		    android:id="@+id/tableLayout1"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:stretchColumns="*" >
+		    
+		    <TableRow android:id="@+id/tableRow1" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="1" android:gravity="center">
+		        <TextView android:id="@+id/textTotal" android:layout_height="fill_parent" android:layout_width="fill_parent"></TextView>
+		        <TextView android:id="@+id/textSelected" android:layout_height="fill_parent" android:layout_width="fill_parent"></TextView>
+		    </TableRow>
+		    <TableRow android:id="@+id/tableRow3" android:layout_height="fill_parent" android:layout_width="fill_parent">
+
+		        <ImageView
+		            android:id="@+id/imageViewDice1"
+		            android:layout_width="fill_parent"
+		            android:layout_height="fill_parent"
+		            android:layout_gravity="center"
+		            android:contentDescription="@string/content_dice"
+		            android:src="@drawable/icon" >
+</ImageView>
+		        <CheckBox android:id="@+id/checkBox1" android:text="@string/wid_hold" android:layout_height="fill_parent" android:layout_width="fill_parent"></CheckBox>
+		    </TableRow>
+		    <TableRow android:id="@+id/tableRow4" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="1" android:gravity="center">
+		        <ImageView android:src="@drawable/icon" android:id="@+id/imageViewDice2" android:layout_gravity="center" android:layout_height="fill_parent" android:layout_width="fill_parent" android:contentDescription="@string/content_dice"></ImageView>
+		        <CheckBox android:id="@+id/checkBox2" android:text="@string/wid_hold" android:layout_height="fill_parent" android:layout_width="fill_parent"></CheckBox>
+		    </TableRow>
+		    <TableRow android:id="@+id/tableRow5" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="1" android:gravity="center">
+		        <ImageView android:src="@drawable/icon" android:id="@+id/imageViewDice3" android:layout_gravity="center" android:layout_height="fill_parent" android:layout_width="fill_parent" android:contentDescription="@string/content_dice"></ImageView>
+		        <CheckBox android:id="@+id/checkBox3" android:text="@string/wid_hold" android:layout_height="fill_parent" android:layout_width="fill_parent"></CheckBox>
+		    </TableRow>
+		    <TableRow android:id="@+id/tableRow6" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="1" android:gravity="center">
+		        <ImageView android:src="@drawable/icon" android:id="@+id/imageViewDice4" android:layout_gravity="center" android:layout_height="fill_parent" android:layout_width="fill_parent" android:contentDescription="@string/content_dice"></ImageView>
+		        <CheckBox android:id="@+id/checkBox4" android:text="@string/wid_hold" android:layout_height="fill_parent" android:layout_width="fill_parent"></CheckBox>
+		    </TableRow>
+		    <TableRow android:id="@+id/tableRow7" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="1" android:gravity="center">
+		        <ImageView android:src="@drawable/icon" android:id="@+id/imageViewDice5" android:layout_gravity="center" android:layout_height="fill_parent" android:layout_width="fill_parent" android:contentDescription="@string/content_dice"></ImageView>
+		        <CheckBox android:id="@+id/checkBox5" android:text="@string/wid_hold" android:layout_height="fill_parent" android:layout_width="fill_parent"></CheckBox>
+		    </TableRow>
+		    <TableRow android:id="@+id/tableRow8" android:baselineAligned="false" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="1" android:gravity="center">
+		        <Button android:id="@+id/buttonRoll" android:layout_height="fill_parent" android:layout_width="fill_parent" style="?android:attr/buttonBarButtonStyle"></Button>
+		        <Button android:id="@+id/buttonEnter" android:text="@string/wid_enter" android:layout_height="fill_parent" android:layout_width="fill_parent" style="?android:attr/buttonBarButtonStyle"></Button>
+		    </TableRow>
+		    <TableRow android:id="@+id/tableRow9" android:baselineAligned="false" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="1" android:gravity="center">
+		        <Spinner android:id="@+id/spinnerScore" android:layout_height="fill_parent" android:layout_width="fill_parent"></Spinner>
+		        <Button android:layout_height="fill_parent" android:text="@string/wid_check" android:layout_width="fill_parent" android:id="@+id/buttonStatus" style="?android:attr/buttonBarButtonStyle"></Button>
+		    </TableRow>
+		    <TableRow android:id="@+id/tableRow10" android:baselineAligned="false" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="1" android:gravity="center">
+		        <TextView android:id="@+id/textViewBonus" android:text="" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_span="2"></TextView>
+		    </TableRow>
+		</TableLayout>
+
+</LinearLayout>

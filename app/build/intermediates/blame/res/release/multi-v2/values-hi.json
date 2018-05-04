@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\yasun\\StudioProjects\\droid_dicex\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hi\\values-hi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-15.0.0.aar\\03f3b3cc9febb2b754df77e84724ce1d\\res\\values-hi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,267,393,462,530,607,701",
+                        "endColumns": "69,125,68,67,76,93,70",
+                        "endOffsets": "266,392,461,529,606,700,771"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "310,384,514,587,659,740,838",
+                        "endColumns": "73,129,72,71,80,97,74",
+                        "endOffsets": "379,509,582,654,735,833,908"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\102950fc287e156fb6455b95ade6d334\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "913",
+                        "endColumns": "100",
+                        "endOffsets": "1009"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\4a781e9a74787a52d47e23e48c92b0e5\\res\\values-hi\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        }
+    ]
+}

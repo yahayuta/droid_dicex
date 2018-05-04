@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content_dice">DICEX</string>
+    <string name="app_name">DROID POKER OF DICE</string>
+    <string name="wid_hold">HOLD</string>
+    <string name="wid_enter">ENTER SCORE</string>
+    <string name="wid_check">CHECK STATUS</string>
+    <string name="wid_roll">ROLL</string>
+    <string name="scr_1">Aces</string>
+    <string name="scr_2">Twos</string>
+    <string name="scr_3">Threes</string>
+    <string name="scr_4">Fours</string>
+    <string name="scr_5">Fives</string>
+    <string name="scr_6">Sixes</string>
+    <string name="scr_3card">3 of a kind</string>
+    <string name="scr_4card">4 of a kind</string>
+    <string name="scr_full">Full House</string>
+    <string name="scr_sstght">Small Straight</string>
+    <string name="scr_lstght">Large Straight</string>
+    <string name="scr_chance">Chance</string>
+    <string name="scr_dicex">5 of a kind</string>
+    <string name="msg_picked">Already picked, cannot pick this one!!</string>
+    <string name="msg_bonus">BONUS35</string>
+    <string name="msg_score">SCORE:</string>
+    <string name="msg_rollvalue">ROLL VALUE:</string>
+    <string name="msg_gameover">GAME OVER</string>
+    <string name="msg_result">YOUR SCORE:</string>
+    <string name="msg_export">EXPORT RESULT</string>
+    <string name="msg_status">STATUS</string>
+    <string name="msg_bonus_get">BONUS GET 35</string>
+    <string name="menu_export">EXPORT YOUR SCORE</string>
+    <string name="menu_chart">SCORE HISTORY CHART</string>
+    <string name="menu_reset">RESTART GAME</string>
+    <string name="chart_name">SCORE HISTORY</string>
+    <string name="chart_x">DATE</string>
+    <string name="chart_y">SCORE</string>
+    <string name="chart_plot">SCORE</string>
+</resources>

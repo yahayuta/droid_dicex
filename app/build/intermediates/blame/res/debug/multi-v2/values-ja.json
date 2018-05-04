@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\yasun\\StudioProjects\\droid_dicex\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasun\\StudioProjects\\droid_dicex\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "from": {
+                        "startLines": "3,33,36,34,35,2,31,30,32,22,29,27,25,21,26,24,23,28,8,9,10,14,11,15,12,13,19,20,16,18,17,6,5,4,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "102,1475,1602,1523,1562,55,1383,1332,1431,947,1279,1185,1089,885,1138,1039,996,1234,324,365,406,570,447,614,488,529,794,841,658,750,704,234,190,148,279",
+                        "endColumns": "45,47,42,38,39,46,47,50,43,48,52,48,48,61,46,49,42,44,40,40,40,43,40,43,40,40,46,43,45,43,45,44,43,41,44",
+                        "endOffsets": "143,1518,1640,1557,1597,97,1426,1378,1470,991,1327,1229,1133,942,1180,1084,1034,1274,360,401,442,609,483,653,524,565,836,880,699,789,745,274,229,185,319"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,28,29,30,31,32,33,34,35,36,37,38,39,40,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,151,199,242,281,502,549,597,648,692,741,794,843,892,954,1001,1051,1094,1656,1697,1738,1779,1823,1864,1908,1949,1990,2037,2081,2127,2171,2318,2363,2407,2449",
+                        "endColumns": "45,47,42,38,39,46,47,50,43,48,52,48,48,61,46,49,42,44,40,40,40,43,40,43,40,40,46,43,45,43,45,44,43,41,44",
+                        "endOffsets": "146,194,237,276,316,544,592,643,687,736,789,838,887,949,996,1046,1089,1134,1692,1733,1774,1818,1859,1903,1944,1985,2032,2076,2122,2166,2212,2358,2402,2444,2489"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\4a781e9a74787a52d47e23e48c92b0e5\\res\\values-ja\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "180",
+                        "endOffsets": "427"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "321",
+                        "endColumns": "180",
+                        "endOffsets": "497"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-15.0.0.aar\\03f3b3cc9febb2b754df77e84724ce1d\\res\\values-ja\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,259,345,407,470,539,623",
+                        "endColumns": "61,85,61,62,68,83,62",
+                        "endOffsets": "258,344,406,469,538,622,685"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1139,1205,1295,1361,1428,1501,1589",
+                        "endColumns": "65,89,65,66,72,87,66",
+                        "endOffsets": "1200,1290,1356,1423,1496,1584,1651"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\102950fc287e156fb6455b95ade6d334\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "2217",
+                        "endColumns": "100",
+                        "endOffsets": "2313"
+                    }
+                }
+            ]
+        }
+    ]
+}
