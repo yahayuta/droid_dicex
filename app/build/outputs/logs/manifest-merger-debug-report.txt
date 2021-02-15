@@ -1,189 +1,189 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\03f3b3cc9febb2b754df77e84724ce1d\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\5e182ac93867afdba6700583a488f920\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6013d290ab431e9e518cd1618b5dc836\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\58d324cf3861ab73944ba406bcbb3881\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9fbad408c3997076ea45adfaa9aebd11\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4a781e9a74787a52d47e23e48c92b0e5\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\125e6afe935845ed179475f35da47969\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e03f18c2e05c0a0e642edac9044d8941\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6ea252ccfe17925b8b9e82766f188a0c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3bd4cfafbd93db8d1fc18071d72f812c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7fe95a9c49d3cd3d4c009d275a4eb218\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\102950fc287e156fb6455b95ade6d334\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dfe8e95a6a77e659967733f6754490d\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\311ab83fe5e99a9867b6586da904c860\play-services-ads-15.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\96cfcba76047fe66d18a2633a36d3f90\customtabs-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\796c7cbaa2f3458580d553f8bddfd32b\play-services-gass-15.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\058ccf13fbbd72cdddedcfa4a73c8a83\play-services-ads-base-15.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6371e31c7b64630da12ef4412588c2f6\play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\9bfcf3df876387811413986a4ca2b534\play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\07a9fd09d224a857e16d47290c591758\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\a4a4820251fc200ab370e03aef3b315e\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\078d91f463d734bcd016c526d709f0f4\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6600b6e31dd601babf4c6117531055fc\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\d8effdddea4979359150ef4ee68107c7\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\5a15ed0d84c79d244315d09e10cd7f09\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\fc77544894966c2a96f4b9c4d7143aae\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:123-144
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:123-144
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:70-97
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:70-97
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:2:98-122
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:2:98-122
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\03f3b3cc9febb2b754df77e84724ce1d\AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\03f3b3cc9febb2b754df77e84724ce1d\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\5e182ac93867afdba6700583a488f920\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\5e182ac93867afdba6700583a488f920\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6013d290ab431e9e518cd1618b5dc836\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6013d290ab431e9e518cd1618b5dc836\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\58d324cf3861ab73944ba406bcbb3881\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\58d324cf3861ab73944ba406bcbb3881\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9fbad408c3997076ea45adfaa9aebd11\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9fbad408c3997076ea45adfaa9aebd11\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4a781e9a74787a52d47e23e48c92b0e5\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4a781e9a74787a52d47e23e48c92b0e5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\125e6afe935845ed179475f35da47969\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\125e6afe935845ed179475f35da47969\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e03f18c2e05c0a0e642edac9044d8941\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e03f18c2e05c0a0e642edac9044d8941\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6ea252ccfe17925b8b9e82766f188a0c\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6ea252ccfe17925b8b9e82766f188a0c\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3bd4cfafbd93db8d1fc18071d72f812c\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3bd4cfafbd93db8d1fc18071d72f812c\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7fe95a9c49d3cd3d4c009d275a4eb218\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7fe95a9c49d3cd3d4c009d275a4eb218\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\102950fc287e156fb6455b95ade6d334\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\102950fc287e156fb6455b95ade6d334\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dfe8e95a6a77e659967733f6754490d\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dfe8e95a6a77e659967733f6754490d\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
-INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\311ab83fe5e99a9867b6586da904c860\play-services-ads-15.0.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\311ab83fe5e99a9867b6586da904c860\play-services-ads-15.0.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\96cfcba76047fe66d18a2633a36d3f90\customtabs-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\96cfcba76047fe66d18a2633a36d3f90\customtabs-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\796c7cbaa2f3458580d553f8bddfd32b\play-services-gass-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\796c7cbaa2f3458580d553f8bddfd32b\play-services-gass-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\058ccf13fbbd72cdddedcfa4a73c8a83\play-services-ads-base-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\058ccf13fbbd72cdddedcfa4a73c8a83\play-services-ads-base-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6371e31c7b64630da12ef4412588c2f6\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6371e31c7b64630da12ef4412588c2f6\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\9bfcf3df876387811413986a4ca2b534\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\9bfcf3df876387811413986a4ca2b534\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\07a9fd09d224a857e16d47290c591758\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\07a9fd09d224a857e16d47290c591758\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\a4a4820251fc200ab370e03aef3b315e\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\a4a4820251fc200ab370e03aef3b315e\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\078d91f463d734bcd016c526d709f0f4\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\078d91f463d734bcd016c526d709f0f4\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6600b6e31dd601babf4c6117531055fc\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6600b6e31dd601babf4c6117531055fc\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\d8effdddea4979359150ef4ee68107c7\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\d8effdddea4979359150ef4ee68107c7\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\5a15ed0d84c79d244315d09e10cd7f09\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\5a15ed0d84c79d244315d09e10cd7f09\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\fc77544894966c2a96f4b9c4d7143aae\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\fc77544894966c2a96f4b9c4d7143aae\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
+INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
 	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\03f3b3cc9febb2b754df77e84724ce1d\AndroidManifest.xml:23:9-59
+		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\311ab83fe5e99a9867b6586da904c860\play-services-ads-15.0.0\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:3:15-41
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:3:15-41
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
+		INJECTED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:4:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:23:5-67
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:5:2-75
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:24:5-79
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:5:2-75
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:5:19-73
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:5:19-73
 application
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:7:5-18:19
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\5e182ac93867afdba6700583a488f920\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\5e182ac93867afdba6700583a488f920\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6013d290ab431e9e518cd1618b5dc836\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6013d290ab431e9e518cd1618b5dc836\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\58d324cf3861ab73944ba406bcbb3881\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\58d324cf3861ab73944ba406bcbb3881\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9fbad408c3997076ea45adfaa9aebd11\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9fbad408c3997076ea45adfaa9aebd11\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4a781e9a74787a52d47e23e48c92b0e5\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4a781e9a74787a52d47e23e48c92b0e5\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\125e6afe935845ed179475f35da47969\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\125e6afe935845ed179475f35da47969\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e03f18c2e05c0a0e642edac9044d8941\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e03f18c2e05c0a0e642edac9044d8941\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6ea252ccfe17925b8b9e82766f188a0c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6ea252ccfe17925b8b9e82766f188a0c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3bd4cfafbd93db8d1fc18071d72f812c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3bd4cfafbd93db8d1fc18071d72f812c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7fe95a9c49d3cd3d4c009d275a4eb218\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7fe95a9c49d3cd3d4c009d275a4eb218\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\102950fc287e156fb6455b95ade6d334\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\102950fc287e156fb6455b95ade6d334\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dfe8e95a6a77e659967733f6754490d\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dfe8e95a6a77e659967733f6754490d\AndroidManifest.xml:24:5-28:19
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:7:5-18:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\96cfcba76047fe66d18a2633a36d3f90\customtabs-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\96cfcba76047fe66d18a2633a36d3f90\customtabs-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\796c7cbaa2f3458580d553f8bddfd32b\play-services-gass-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\796c7cbaa2f3458580d553f8bddfd32b\play-services-gass-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\058ccf13fbbd72cdddedcfa4a73c8a83\play-services-ads-base-15.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\058ccf13fbbd72cdddedcfa4a73c8a83\play-services-ads-base-15.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6371e31c7b64630da12ef4412588c2f6\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6371e31c7b64630da12ef4412588c2f6\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\9bfcf3df876387811413986a4ca2b534\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\9bfcf3df876387811413986a4ca2b534\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\07a9fd09d224a857e16d47290c591758\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\07a9fd09d224a857e16d47290c591758\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\a4a4820251fc200ab370e03aef3b315e\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\a4a4820251fc200ab370e03aef3b315e\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\078d91f463d734bcd016c526d709f0f4\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\078d91f463d734bcd016c526d709f0f4\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6600b6e31dd601babf4c6117531055fc\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6600b6e31dd601babf4c6117531055fc\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\d8effdddea4979359150ef4ee68107c7\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\d8effdddea4979359150ef4ee68107c7\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\5a15ed0d84c79d244315d09e10cd7f09\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\5a15ed0d84c79d244315d09e10cd7f09\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\fc77544894966c2a96f4b9c4d7143aae\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\fc77544894966c2a96f4b9c4d7143aae\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:7:18-50
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:7:18-50
 	android:icon
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:7:51-81
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:7:51-81
 	android:allowBackup
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:7:82-108
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:7:82-108
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:8:5-117
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4a781e9a74787a52d47e23e48c92b0e5\AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4a781e9a74787a52d47e23e48c92b0e5\AndroidManifest.xml:23:9-25:69
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:8:5-117
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\9bfcf3df876387811413986a4ca2b534\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\9bfcf3df876387811413986a4ca2b534\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:8:62-115
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:8:62-115
 	android:name
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:8:16-61
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:8:16-61
 activity#driod.dicex.DriodDiceXActivity
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:9:9-14:20
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:9:9-14:20
 	android:label
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:9:19-51
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:9:19-51
 	android:configChanges
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:9:86-136
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:9:86-136
 	android:name
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:9:52-85
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:9:52-85
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:10:4-13:26
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:10:4-13:26
 action#android.intent.action.MAIN
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:11:13-65
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:11:13-65
 	android:name
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:11:21-62
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:11:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:12:13-73
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:12:13-73
 	android:name
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:12:23-70
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:12:23-70
 activity#com.google.android.gms.ads.AdActivity
-ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:16:9-183
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:29:9-33:64
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:29:9-33:64
+ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:16:9-183
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:29:9-33:64
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:16:72-181
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:16:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\00ce8951f8c804aad8a190f800089fa7\AndroidManifest.xml:33:13-61
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\c4cd7ffa27a05213d358a6c1d31c7cb1\play-services-ads-lite-15.0.0\AndroidManifest.xml:33:13-61
 	android:name
-		ADDED from C:\Users\yasun\StudioProjects\droid_dicex\app\src\main\AndroidManifest.xml:16:19-71
+		ADDED from D:\develop\droid_dicex\app\src\main\AndroidManifest.xml:16:19-71
 meta-data#android.support.VERSION
-ADDED from [com.android.support:customtabs:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\5e182ac93867afdba6700583a488f920\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\125e6afe935845ed179475f35da47969\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\125e6afe935845ed179475f35da47969\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e03f18c2e05c0a0e642edac9044d8941\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e03f18c2e05c0a0e642edac9044d8941\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6ea252ccfe17925b8b9e82766f188a0c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6ea252ccfe17925b8b9e82766f188a0c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3bd4cfafbd93db8d1fc18071d72f812c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3bd4cfafbd93db8d1fc18071d72f812c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7fe95a9c49d3cd3d4c009d275a4eb218\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7fe95a9c49d3cd3d4c009d275a4eb218\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\102950fc287e156fb6455b95ade6d334\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\102950fc287e156fb6455b95ade6d334\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\96cfcba76047fe66d18a2633a36d3f90\customtabs-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\07a9fd09d224a857e16d47290c591758\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\07a9fd09d224a857e16d47290c591758\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\a4a4820251fc200ab370e03aef3b315e\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\a4a4820251fc200ab370e03aef3b315e\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\078d91f463d734bcd016c526d709f0f4\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\078d91f463d734bcd016c526d709f0f4\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6600b6e31dd601babf4c6117531055fc\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\6600b6e31dd601babf4c6117531055fc\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\d8effdddea4979359150ef4ee68107c7\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\d8effdddea4979359150ef4ee68107c7\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\5a15ed0d84c79d244315d09e10cd7f09\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\5a15ed0d84c79d244315d09e10cd7f09\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\5e182ac93867afdba6700583a488f920\AndroidManifest.xml:25:13-35
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\96cfcba76047fe66d18a2633a36d3f90\customtabs-26.1.0\AndroidManifest.xml:25:13-35
 	android:name
-		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\5e182ac93867afdba6700583a488f920\AndroidManifest.xml:24:13-51
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\96cfcba76047fe66d18a2633a36d3f90\customtabs-26.1.0\AndroidManifest.xml:24:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dfe8e95a6a77e659967733f6754490d\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\fc77544894966c2a96f4b9c4d7143aae\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dfe8e95a6a77e659967733f6754490d\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\fc77544894966c2a96f4b9c4d7143aae\runtime-1.0.0\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yasun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dfe8e95a6a77e659967733f6754490d\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yahayuta\.gradle\caches\transforms-2\files-2.1\fc77544894966c2a96f4b9c4d7143aae\runtime-1.0.0\AndroidManifest.xml:26:13-58

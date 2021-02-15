@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "driod.dicex",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 24,
+        "versionName": "2.5.0",
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "resources-release.ap_",
+      "properties": {
+        "packageId": "driod.dicex",
+        "split": "",
+        "minSdkVersion": "29"
+      }
+    }
+  ]
+}

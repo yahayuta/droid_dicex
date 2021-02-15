@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\yasun\\StudioProjects\\droid_dicex\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "D:\\develop\\droid_dicex\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\102950fc287e156fb6455b95ade6d334\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\yahayuta\\.gradle\\caches\\transforms-2\\files-2.1\\5a15ed0d84c79d244315d09e10cd7f09\\support-compat-26.1.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

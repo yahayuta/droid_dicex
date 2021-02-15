@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\yasun\\StudioProjects\\droid_dicex\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
+            "outputFile": "D:\\develop\\droid_dicex\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-15.0.0.aar\\03f3b3cc9febb2b754df77e84724ce1d\\res\\values-hu\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "197,265,386,453,521,604,720",
-                        "endColumns": "67,120,66,67,82,115,70",
-                        "endOffsets": "264,385,452,520,603,719,790"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "341,413,538,609,681,768,888",
-                        "endColumns": "71,124,70,71,86,119,74",
-                        "endOffsets": "408,533,604,676,763,883,958"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\102950fc287e156fb6455b95ade6d334\\res\\values-hu\\values-hu.xml",
+                    "source": "C:\\Users\\yahayuta\\.gradle\\caches\\transforms-2\\files-2.1\\5a15ed0d84c79d244315d09e10cd7f09\\support-compat-26.1.0\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\yasun\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\4a781e9a74787a52d47e23e48c92b0e5\\res\\values-hu\\values.xml",
+                    "source": "C:\\Users\\yahayuta\\.gradle\\caches\\transforms-2\\files-2.1\\311ab83fe5e99a9867b6586da904c860\\play-services-ads-15.0.0\\res\\values-hu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,265,386,453,521,604,720",
+                        "endColumns": "67,120,66,67,82,115,70",
+                        "endOffsets": "264,385,452,520,603,719,790"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "341,413,538,609,681,768,888",
+                        "endColumns": "71,124,70,71,86,119,74",
+                        "endOffsets": "408,533,604,676,763,883,958"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yahayuta\\.gradle\\caches\\transforms-2\\files-2.1\\9bfcf3df876387811413986a4ca2b534\\play-services-basement-15.0.1\\res\\values-hu\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
