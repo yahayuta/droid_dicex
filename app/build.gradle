@@ -1,16 +1,17 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 33
     buildToolsVersion "30.0.3"
+    namespace 'driod.dicex'
 
     defaultConfig {
         applicationId "driod.dicex"
         minSdkVersion 29
-        targetSdkVersion 29
+        targetSdkVersion 33
         compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_5
-            targetCompatibility JavaVersion.VERSION_1_5
+            sourceCompatibility JavaVersion.VERSION_19
+            targetCompatibility JavaVersion.VERSION_19
         }
     }
 
@@ -27,7 +28,3 @@ android {
     }
 }
 
-dependencies {
-    implementation files('libs/afreechart-0.0.3.jar')
-    implementation 'com.google.android.gms:play-services-ads:15.0.0'
-}

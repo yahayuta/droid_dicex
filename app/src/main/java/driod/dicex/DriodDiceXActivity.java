@@ -30,10 +30,6 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdSize;
-import com.google.android.gms.ads.AdView;
-
 /**
  * DriodDiceXActivity
  * @author yasupong
@@ -82,8 +78,6 @@ public class DriodDiceXActivity extends Activity implements OnItemSelectedListen
 	
 	/** メニューアイテムID0 */
 	private final int MENU_ITEM0 = 0;
-	/** メニューアイテムID1 */
-	private final int MENU_ITEM1 = 1;
 	/** メニューアイテムID2 */
 	private final int MENU_ITEM2 = 2;
 	
@@ -154,10 +148,6 @@ public class DriodDiceXActivity extends Activity implements OnItemSelectedListen
 	    TextView txtBonus = (TextView) findViewById(R.id.textViewBonus);
         btnRoll.setText(getString(R.string.wid_roll) + "(" + chance + ")");
 	    txtBonus.setText("");
-	    
-        //AdView初期化
-        AdView adView = (AdView)this.findViewById(R.id.adView);
-        adView.loadAd(new AdRequest.Builder().build());
 	}
 
 	@Override
@@ -190,9 +180,6 @@ public class DriodDiceXActivity extends Activity implements OnItemSelectedListen
 			case MENU_ITEM0:
 				saveScoreLog();
 				return true;
-			case MENU_ITEM1:
-				loadChart();
-				return true;
 			case MENU_ITEM2:
 		        Intent intent = new Intent(DriodDiceXActivity.this, DriodDiceXActivity.class);
 		        startActivity(intent);
@@ -207,9 +194,6 @@ public class DriodDiceXActivity extends Activity implements OnItemSelectedListen
 		
 		MenuItem actionItem0 = menu.add(0, MENU_ITEM0, 0, getString(R.string.menu_export));
 		actionItem0.setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
-		
-		MenuItem actionItem1 = menu.add(0, MENU_ITEM1, 0, getString(R.string.menu_chart));
-		actionItem1.setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
 		
 		MenuItem actionItem2 = menu.add(0, MENU_ITEM2, 0, getString(R.string.menu_reset));
 		actionItem2.setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
@@ -862,38 +846,5 @@ public class DriodDiceXActivity extends Activity implements OnItemSelectedListen
 		
 		intent.putExtra(Intent.EXTRA_TEXT, text);  
 		startActivity(Intent.createChooser(intent, getString(R.string.menu_export)));
-	}
-	
-	/**
-	 * 喫煙ロググラフ作成
-	 */
-	private void loadChart() {
-        LinearLayout layout = (LinearLayout)findViewById(R.id.MainlinearLayout);
-        layout.removeAllViews();
-        
-        addAdView(layout);
-        
-        // ビューの作成
-        DriodDiceXChartView cView = new DriodDiceXChartView(this);
-        // ログビリスト取得
-        cView.setLogList(getAllcScoreList());
-        cView.setChart_name(getString(R.string.chart_name));
-        cView.setChart_x_label(getString(R.string.chart_x));
-        cView.setChart_y_label(getString(R.string.chart_y));
-        cView.setChart_plot(getString(R.string.chart_plot));
-               
-        layout.addView(cView);
-	}
-	
-	/**
-	 * adMobビューを追加する
-	 * @param layout
-	 */
-	private void addAdView(LinearLayout layout) {
-        AdView adView = new AdView(this);
-        adView.setAdUnitId("ca-app-pub-4280826531916194/8557101904");
-        adView.setAdSize(AdSize.SMART_BANNER);
-        layout.addView(adView);
-		adView.loadAd(new AdRequest.Builder().build());
 	}
 }

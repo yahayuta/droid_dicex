@@ -1,4 +1,0 @@
-#Mon Feb 15 17:02:45 JST 2021
-base.0=D\:\\develop\\droid_dicex\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
