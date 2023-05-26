@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/develop.droid_dicex.iml" filepath="$PROJECT_DIR$/.idea/modules/develop.droid_dicex.iml" />
       <module fileurl="file://$PROJECT_DIR$/droid_dicex.iml" filepath="$PROJECT_DIR$/droid_dicex.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/droid_dicex.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/droid_dicex.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/droid_dicex.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/droid_dicex.app.androidTest.iml" />
