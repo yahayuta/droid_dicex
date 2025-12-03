@@ -1,10 +1,11 @@
-# DroidDiceX - Android Dice Poker Game
+# DroidDiceX - Dice Poker Game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Android](https://img.shields.io/badge/Android-API%2029+-green.svg)](https://developer.android.com/about/versions/android-10)
+[![Flutter](https://img.shields.io/badge/Flutter-3.9+-blue.svg)](https://flutter.dev)
 [![Java](https://img.shields.io/badge/Java-19-orange.svg)](https://www.oracle.com/java/)
 
-A classic dice poker game for Android devices, featuring Yahtzee-style gameplay with modern UI and score tracking capabilities.
+A classic dice poker game available in both native Android and cross-platform Flutter versions, featuring Yahtzee-style gameplay with modern UI and score tracking capabilities.
 
 ## 🎲 Features
 
@@ -17,23 +18,53 @@ A classic dice poker game for Android devices, featuring Yahtzee-style gameplay 
 - **Score Tracking**: Save and export your game results
 - **Bonus System**: Earn bonus points for high upper section scores
 - **Hold Feature**: Keep specific dice between rolls
-- **Game Statistics**: View your score history and performance
 - **Bilingual Support**: English and Japanese language support
+- **Cross-Platform**: Available as native Android and Flutter apps
 
-## 📱 Screenshots
+## 📱 Available Versions
 
-*Screenshots coming soon*
+### Flutter (Recommended)
+Cross-platform version supporting Android, iOS, Web, and Desktop.
+
+### Native Android
+Original Android-only version with Java.
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Flutter Version
 
+#### Prerequisites
+- Flutter SDK 3.9+
+- Dart 3.0+
+- Android Studio or VS Code with Flutter extensions
+
+#### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/droid_dicex.git
+   cd droid_dicex/flutter_app
+   ```
+
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app**
+   ```bash
+   flutter run
+   ```
+
+### Android Version
+
+#### Prerequisites
 - Android Studio Arctic Fox or later
 - Android SDK API 29+ (Android 10)
 - Java 19
 - Gradle 7.0+
 
-### Installation
+#### Installation
 
 1. **Clone the repository**
    ```bash
@@ -51,10 +82,10 @@ A classic dice poker game for Android devices, featuring Yahtzee-style gameplay 
    - Click the "Run" button (green play icon) in Android Studio
    - The app will install and launch on your device
 
-### Building from Command Line
+#### Building from Command Line
 
 ```bash
-# Navigate to project directory
+# Navigate to Android project directory
 cd droid_dicex/android
 
 # Build the project
@@ -89,7 +120,14 @@ cd droid_dicex/android
 
 ## 🛠️ Technical Details
 
-### Architecture
+### Flutter Version Architecture
+- **Language**: Dart 3.0+
+- **Framework**: Flutter 3.9+
+- **State Management**: Provider
+- **Database**: SQLite (sqflite)
+- **Localization**: flutter_localizations with ARB files
+
+### Android Version Architecture
 - **Language**: Java 19
 - **Platform**: Android (API 29+)
 - **Database**: SQLite for score persistence
@@ -98,51 +136,39 @@ cd droid_dicex/android
 ### Project Structure
 ```
 droid_dicex/
-├── android/
+├── flutter_app/              # Flutter cross-platform version
+│   ├── lib/
+│   │   ├── data/            # Data models and database
+│   │   ├── providers/       # State management
+│   │   ├── screens/         # UI screens
+│   │   ├── l10n/           # Localization files
+│   │   └── main.dart
+│   └── assets/images/       # Dice images
+├── android/                 # Native Android version
 │   ├── app/
 │   │   ├── src/main/
 │   │   │   ├── java/driod/dicex/
-│   │   │   │   ├── DriodDiceXActivity.java    # Main game activity
-│   │   │   │   ├── DriodDiceXDBHelper.java    # Database helper
-│   │   │   │   └── DriodDiceXScoreEntity.java # Score data model
-│   │   │   ├── res/
-│   │   │   │   ├── layout/main.xml            # Main game UI
-│   │   │   │   ├── values/strings.xml         # English strings
-│   │   │   │   ├── values-ja/strings.xml      # Japanese strings
-│   │   │   │   └── drawable/                  # Dice images
-│   │   │   └── AndroidManifest.xml
+│   │   │   │   ├── DriodDiceXActivity.java
+│   │   │   │   ├── DriodDiceXDBHelper.java
+│   │   │   │   └── DriodDiceXScoreEntity.java
+│   │   │   └── res/
 │   │   └── build.gradle
-│   ├── gradle/
 │   └── build.gradle
+└── README.md
 ```
 
 ### Key Components
 
+#### Flutter Version
+- **GameProvider**: State management with game logic
+- **DatabaseHelper**: SQLite operations for score storage
+- **GameScreen**: Main game UI with dice, controls, and scoring
+- **Localization**: English and Japanese support via ARB files
+
+#### Android Version
 - **DriodDiceXActivity**: Main game logic and UI controller
-- **DriodDiceXDBHelper**: SQLite database operations for score storage
-- **DriodDiceXScoreEntity**: Data model for score records
-- **Score Calculation**: Complex algorithms for detecting poker hands
-- **Dice Rolling**: Random number generation and visual updates
-
-## 📊 Features in Detail
-
-### Score Tracking
-- Automatic score calculation for all categories
-- Bonus point system (35 points for 63+ in upper section)
-- Persistent storage of game results
-- Export functionality for score sharing
-
-### Game Mechanics
-- 3 rolls per turn with hold functionality
-- 13 scoring categories to complete
-- Real-time score validation
-- Game state management
-
-### User Interface
-- Intuitive dice display with hold checkboxes
-- Dropdown menu for score category selection
-- Real-time score updates
-- Game status and bonus indicators
+- **DriodDiceXDBHelper**: SQLite database operations
+- **DriodDiceXScoreEntity**: Score data model
 
 ## 🤝 Contributing
 
@@ -167,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Inspired by the classic Yahtzee dice game
-- Built with Android development best practices
+- Built with modern development best practices
 - Uses MIT License for open source contribution
 
 ## 📞 Support
@@ -176,7 +202,7 @@ If you encounter any issues or have questions:
 
 1. Check the [Issues](https://github.com/yourusername/droid_dicex/issues) page
 2. Create a new issue with detailed description
-3. Include device information and Android version
+3. Include device information and platform version
 
 ---
 
