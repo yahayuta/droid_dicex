@@ -44,7 +44,7 @@ A classic dice poker game for Android devices, featuring Yahtzee-style gameplay 
 2. **Open in Android Studio**
    - Launch Android Studio
    - Select "Open an existing Android Studio project"
-   - Navigate to the cloned directory and select it
+   - Navigate to the cloned directory and select the `android` folder
 
 3. **Build and Run**
    - Connect an Android device or start an emulator
@@ -55,7 +55,7 @@ A classic dice poker game for Android devices, featuring Yahtzee-style gameplay 
 
 ```bash
 # Navigate to project directory
-cd droid_dicex
+cd droid_dicex/android
 
 # Build the project
 ./gradlew build
@@ -98,21 +98,22 @@ cd droid_dicex
 ### Project Structure
 ```
 droid_dicex/
-├── app/
-│   ├── src/main/
-│   │   ├── java/driod/dicex/
-│   │   │   ├── DriodDiceXActivity.java    # Main game activity
-│   │   │   ├── DriodDiceXDBHelper.java    # Database helper
-│   │   │   └── DriodDiceXScoreEntity.java # Score data model
-│   │   ├── res/
-│   │   │   ├── layout/main.xml            # Main game UI
-│   │   │   ├── values/strings.xml         # English strings
-│   │   │   ├── values-ja/strings.xml      # Japanese strings
-│   │   │   └── drawable/                  # Dice images
-│   │   └── AndroidManifest.xml
+├── android/
+│   ├── app/
+│   │   ├── src/main/
+│   │   │   ├── java/driod/dicex/
+│   │   │   │   ├── DriodDiceXActivity.java    # Main game activity
+│   │   │   │   ├── DriodDiceXDBHelper.java    # Database helper
+│   │   │   │   └── DriodDiceXScoreEntity.java # Score data model
+│   │   │   ├── res/
+│   │   │   │   ├── layout/main.xml            # Main game UI
+│   │   │   │   ├── values/strings.xml         # English strings
+│   │   │   │   ├── values-ja/strings.xml      # Japanese strings
+│   │   │   │   └── drawable/                  # Dice images
+│   │   │   └── AndroidManifest.xml
+│   │   └── build.gradle
+│   ├── gradle/
 │   └── build.gradle
-├── gradle/
-└── build.gradle
 ```
 
 ### Key Components
@@ -179,4 +180,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Enjoy playing DroidDiceX! 🎲** 
+**Enjoy playing DroidDiceX! 🎲**
