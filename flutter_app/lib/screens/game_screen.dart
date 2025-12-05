@@ -77,11 +77,7 @@ class GameScreen extends StatelessWidget {
     if (game.scoreUsed[game.currentScoreChecked]) {
       return '*';
     }
-    if (game.currentScoreChecked < GameProvider.SCR_3CARD) {
-      return game.selectedScr1.toString();
-    } else {
-      return game.selectedScr2.toString();
-    }
+    return (game.selectedScr1 + game.selectedScr2).toString();
   }
 
   Widget _buildDiceRow(BuildContext context, GameProvider game, int index, AppLocalizations l10n) {
@@ -229,25 +225,42 @@ class GameScreen extends StatelessWidget {
 
   void _showStatus(BuildContext context, GameProvider game, AppLocalizations l10n) {
     final scoreCategories = _getScoreCategories(l10n);
-    String msg = '';
     
-    for (int i = 0; i < 13; i++) {
-      msg += scoreCategories[i];
-      if (game.scoreUsed[i]) {
-        msg += ' * ${game.scoreGet[i]}';
-      }
-      msg += '\\n';
-    }
-    
-    if (game.bonusFlag) {
-      msg += l10n.msgBonusGet;
-    }
-
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
         title: Text(l10n.msgStatus),
-        content: Text(msg),
+        content: SizedBox(
+          width: double.maxFinite,
+          child: SingleChildScrollView(
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                for (int i = 0; i < 13; i++)
+                  Padding(
+                    padding: const EdgeInsets.symmetric(vertical: 4.0),
+                    child: Text(
+                      '${scoreCategories[i]}: ${game.scoreUsed[i] ? game.scoreGet[i] : ''}',
+                      style: const TextStyle(fontSize: 16),
+                    ),
+                  ),
+                if (game.bonusFlag)
+                  Padding(
+                    padding: const EdgeInsets.only(top: 8.0),
+                    child: Text(
+                      l10n.msgBonusGet,
+                      style: const TextStyle(
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.green,
+                      ),
+                    ),
+                  ),
+              ],
+            ),
+          ),
+        ),
         actions: [
           TextButton(
             onPressed: () => Navigator.of(context).pop(),
