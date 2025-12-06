@@ -1,9 +1,9 @@
 # DroidDiceX - Dice Poker Game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Android](https://img.shields.io/badge/Android-API%2029+-green.svg)](https://developer.android.com/about/versions/android-10)
+[![Android](https://img.shields.io/badge/Android-API%2035-green.svg)](https://developer.android.com/about/versions/15)
 [![Flutter](https://img.shields.io/badge/Flutter-3.9+-blue.svg)](https://flutter.dev)
-[![Java](https://img.shields.io/badge/Java-19-orange.svg)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-17%20%7C%2021-orange.svg)](https://www.oracle.com/java/)
 
 A classic dice poker game available in both native Android and cross-platform Flutter versions, featuring Yahtzee-style gameplay with modern UI and score tracking capabilities.
 
@@ -59,10 +59,10 @@ Original Android-only version with Java.
 ### Android Version
 
 #### Prerequisites
-- Android Studio Arctic Fox or later
-- Android SDK API 29+ (Android 10)
-- Java 19
-- Gradle 7.0+
+- Android Studio Hedgehog or later
+- Android SDK API 35 (Android 15)
+- JDK 17 or 21 (LTS versions recommended)
+- Gradle 8.9
 
 #### Installation
 
@@ -128,8 +128,9 @@ cd droid_dicex/android
 - **Localization**: flutter_localizations with ARB files
 
 ### Android Version Architecture
-- **Language**: Java 19
-- **Platform**: Android (API 29+)
+- **Language**: Java 17
+- **Platform**: Android (API 35, Android 15)
+- **Build Tools**: Gradle 8.9, AGP 8.7.0
 - **Database**: SQLite for score persistence
 - **UI**: XML layouts with Java activities
 
