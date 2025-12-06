@@ -1,6 +1,11 @@
 # Gradle files
 .gradle/
+build/
 app/build/
+android/build/
+android/app/build/
+**/build/
+*.log.txt
 
 # Local configuration file (sdk path, etc)
 local.properties
