@@ -1,17 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 33
-    buildToolsVersion "30.0.3"
+    compileSdkVersion 35
     namespace 'driod.dicex'
 
     defaultConfig {
         applicationId "driod.dicex"
         minSdkVersion 29
-        targetSdkVersion 33
+        targetSdkVersion 35
         compileOptions {
-            sourceCompatibility JavaVersion.VERSION_19
-            targetCompatibility JavaVersion.VERSION_19
+            sourceCompatibility JavaVersion.VERSION_17
+            targetCompatibility JavaVersion.VERSION_17
         }
     }
 
